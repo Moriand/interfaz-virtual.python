@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="new">
+    <file>img/new.png</file>
+  </qresource>
+  <qresource prefix="import">
+    <file>img/import.png</file>
+  </qresource>
+  <qresource prefix="paste">
+    <file>img/paste.png</file>
+  </qresource>
+  <qresource prefix="save">
+    <file>img/save.png</file>
+  </qresource>
+  <qresource prefix="copy">
+    <file>img/copy.png</file>
+  </qresource>
+  <qresource prefix="exit">
+    <file>img/exit.png</file>
+  </qresource>
+  <qresource prefix="print">
+    <file>img/print.png</file>
+  </qresource>
+</RCC>
